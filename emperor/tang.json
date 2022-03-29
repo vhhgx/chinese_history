@@ -1,0 +1,493 @@
+[
+  {
+    "miao": null,
+    "shi": "德明皇帝",
+    "emperorName": "皋陶",
+    "birthYear": null,
+    "hao": null,
+    "mausoleum": "皋陶墓",
+    "relation": null
+  },
+  {
+    "miao": null,
+    "shi": "先天太上皇",
+    "emperorName": "李敬",
+    "birthYear": null,
+    "hao": null,
+    "mausoleum": null,
+    "relation": "李耳父亲"
+  },
+  {
+    "miao": "大圣祖",
+    "shi": "大圣祖高上大广道金阙玄元天皇大帝",
+    "emperorName": "李耳",
+    "birthYear": null,
+    "hao": null,
+    "mausoleum": null,
+    "relation": null
+  },
+  {
+    "miao": null,
+    "shi": "兴圣皇帝",
+    "emperorName": "李暠",
+    "hao": null,
+    "mausoleum": "建世陵",
+    "relation": null,
+    "birthYear": "351",
+    "deathYear": "417"
+  },
+  {
+    "miao": "献祖",
+    "shi": "宣皇帝",
+    "emperorName": "李熙",
+    "hao": null,
+    "mausoleum": "建初陵",
+    "relation": "李天赐父亲",
+    "birthYear": "443",
+    "deathYear": "490"
+  },
+  {
+    "miao": "懿祖",
+    "shi": "光皇帝",
+    "emperorName": "李天赐",
+    "birthYear": null,
+    "hao": null,
+    "mausoleum": "启运陵",
+    "relation": "李虎父亲"
+  },
+  {
+    "miao": "太祖",
+    "shi": "景皇帝",
+    "emperorName": "李虎",
+    "hao": null,
+    "mausoleum": "永康陵",
+    "relation": "李昞父亲",
+    "birthYear": "498",
+    "deathYear": "551"
+  },
+  {
+    "miao": "世祖",
+    "shi": "元皇帝",
+    "emperorName": "李昞",
+    "hao": null,
+    "mausoleum": "兴宁陵",
+    "relation": "李渊父亲",
+    "birthYear": "536",
+    "deathYear": "572"
+  },
+  {
+    "miao": "高祖",
+    "shi": "神尧大圣大光孝皇帝",
+    "emperorName": "李渊",
+    "hao": "武德",
+    "mausoleum": "献陵",
+    "relation": null,
+    "birthYear": "566",
+    "deathYear": "635",
+    "asend": "618",
+    "abdicateYear": "626",
+    "abdicateReason": 1
+  },
+  {
+    "miao": "太宗",
+    "shi": "文武大圣大广孝皇帝",
+    "emperorName": "李世民",
+    "hao": "贞观",
+    "mausoleum": "昭陵",
+    "relation": "李渊次子",
+    "birthYear": "599",
+    "deathYear": "649",
+    "asend": "626",
+    "abdicateYear": "649",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "高宗",
+    "shi": "天皇大圣大弘孝皇帝",
+    "emperorName": "李治",
+    "hao": [
+      "永徽",
+      "显庆",
+      "龙朔",
+      "麟德",
+      "乾封",
+      "总章",
+      "咸亨",
+      "上元",
+      "仪凤",
+      "调露",
+      "永隆",
+      "开耀",
+      "永淳",
+      "弘道"
+    ],
+    "mausoleum": "乾陵",
+    "relation": "李世民九子，嫡三子",
+    "birthYear": "628",
+    "deathYear": "683",
+    "asend": "649",
+    "abdicateYear": "683",
+    "abdicateReason": 0
+  },
+  {
+    "miao": null,
+    "shi": "孝敬皇帝",
+    "emperorName": "李弘",
+    "hao": null,
+    "mausoleum": "恭陵",
+    "relation": "李治五子，武则天长子",
+    "birthYear": "652",
+    "deathYear": "675"
+  },
+  {
+    "miao": "中宗\n（被废）",
+    "shi": "大和大圣大昭孝皇帝",
+    "emperorName": "李显",
+    "hao": "嗣圣",
+    "mausoleum": "定陵",
+    "relation": "李治七子，武则天三子",
+    "birthYear": "656",
+    "deathYear": "710"
+  },
+  {
+    "miao": "睿宗\n（被废）",
+    "shi": "玄真大圣大兴孝皇帝",
+    "emperorName": "李旦",
+    "hao": "文明",
+    "mausoleum": "桥陵",
+    "relation": "李治八子，武则天四子",
+    "birthYear": "662",
+    "deathYear": "716",
+    "asend": "684",
+    "abdicateYear": "690",
+    "abdicateReason": 1
+  },
+  {
+    "miao": "改国号为周，史称武周。",
+    "shi": "则天大圣皇帝",
+    "emperorName": "武曌",
+    "birthYear": "624",
+    "deathYear": "705",
+    "asend": "690",
+    "abdicateYear": "705",
+    "hao": [
+      "久视",
+      "圣历",
+      "神功",
+      "神龙",
+      "证圣"
+    ],
+    "mausoleum": "乾陵",
+    "relation": "唐太宗才人，唐高宗时封昭仪，后为皇后"
+  },
+  {
+    "miao": "中宗\n（复辟）",
+    "shi": "大和大圣大昭孝皇帝",
+    "emperorName": "李显",
+    "hao": [
+      "神龙",
+      "景龙"
+    ],
+    "mausoleum": "定陵",
+    "relation": "李治七子，武则天三子",
+    "birthYear": "656",
+    "deathYear": "710",
+    "asend": "705",
+    "abdicateYear": "710",
+    "abdicateReason": 0
+  },
+  {
+    "miao": null,
+    "shi": "殇皇帝",
+    "emperorName": "李重茂",
+    "ascendYear": [
+      "710（17天）"
+    ],
+    "hao": "唐隆",
+    "mausoleum": "武功西原",
+    "relation": "李显四子",
+    "birthYear": "695",
+    "deathYear": "714"
+  },
+  {
+    "miao": "睿宗\n（复辟）",
+    "shi": "玄真大圣大兴孝皇帝",
+    "emperorName": "李旦",
+    "hao": [
+      "文明",
+      "景云",
+      "太极",
+      "延和",
+      "光宅",
+      "垂拱",
+      "永昌",
+      "载初"
+    ],
+    "mausoleum": "桥陵",
+    "relation": "李治八子，武则天四子",
+    "birthYear": "662",
+    "deathYear": "716",
+    "asend": "710",
+    "abdicateYear": "712",
+    "abdicateReason": 1
+  },
+  {
+    "miao": null,
+    "shi": "让皇帝",
+    "emperorName": "李宪",
+    "hao": null,
+    "mausoleum": "惠陵",
+    "relation": "李旦长子",
+    "birthYear": "679",
+    "deathYear": "742"
+  },
+  {
+    "miao": "玄宗",
+    "shi": "至道大圣大明孝皇帝",
+    "emperorName": "李隆基",
+    "hao": [
+      "先天",
+      "开元",
+      "天宝"
+    ],
+    "mausoleum": "泰陵",
+    "relation": "李旦三子",
+    "birthYear": "685",
+    "deathYear": "762",
+    "asend": "712",
+    "abdicateYear": "756",
+    "abdicateReason": 1
+  },
+  {
+    "miao": null,
+    "shi": "奉天皇帝",
+    "emperorName": "李琮",
+    "hao": null,
+    "mausoleum": "齐陵",
+    "relation": "李隆基长子",
+    "birthYear": "不详",
+    "deathYear": "752"
+  },
+  {
+    "miao": "肃宗",
+    "shi": "文明武德大圣大宣孝皇帝",
+    "emperorName": "李亨",
+    "hao": [
+      "至德",
+      "乾元",
+      "上元",
+      "宝应"
+    ],
+    "mausoleum": "建陵",
+    "relation": "李隆基三子",
+    "birthYear": "711",
+    "deathYear": "762",
+    "asend": "756",
+    "abdicateYear": "762",
+    "abdicateReason": 0
+  },
+  {
+    "miao": null,
+    "shi": "承天皇帝",
+    "emperorName": "李倓",
+    "hao": null,
+    "mausoleum": "顺陵",
+    "relation": "李亨三子",
+    "birthYear": "不详",
+    "deathYear": "757"
+  },
+  {
+    "miao": "代宗",
+    "shi": "睿文孝武皇帝",
+    "emperorName": "李豫",
+    "hao": [
+      "广德",
+      "永泰",
+      "大历"
+    ],
+    "mausoleum": "元陵",
+    "relation": "李亨长子",
+    "birthYear": "727",
+    "deathYear": "779",
+    "asend": "762",
+    "abdicateYear": "779",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "德宗",
+    "shi": "神武孝文皇帝",
+    "emperorName": "李适",
+    "hao": [
+      "建中",
+      "兴元",
+      "贞元"
+    ],
+    "mausoleum": "崇陵",
+    "relation": "李豫长子",
+    "birthYear": "742",
+    "deathYear": "805",
+    "asend": "779",
+    "abdicateYear": "805",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "顺宗",
+    "shi": "至德弘道大圣大安孝皇帝",
+    "emperorName": "李诵",
+    "ascendYear": [
+      "805"
+    ],
+    "hao": "永贞",
+    "mausoleum": "丰陵",
+    "relation": "李适长子",
+    "birthYear": "761",
+    "deathYear": "806"
+  },
+  {
+    "miao": "宪宗",
+    "shi": "昭文章武大圣至神孝皇帝",
+    "emperorName": "李纯",
+    "hao": "元和",
+    "mausoleum": "景陵",
+    "relation": "李诵长子",
+    "birthYear": "778",
+    "deathYear": "820",
+    "asend": "805",
+    "abdicateYear": "820",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "穆宗",
+    "shi": "睿圣文惠孝皇帝",
+    "emperorName": "李恒",
+    "hao": "长庆",
+    "mausoleum": "光陵",
+    "relation": "李纯三子",
+    "birthYear": "795",
+    "deathYear": "824",
+    "asend": "820",
+    "abdicateYear": "824",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "敬宗",
+    "shi": "睿武昭愍孝皇帝",
+    "emperorName": "李湛",
+    "hao": "宝历",
+    "mausoleum": "庄陵",
+    "relation": "李恒长子",
+    "birthYear": "809",
+    "deathYear": "826",
+    "asend": "824",
+    "abdicateYear": "826",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "文宗",
+    "shi": "元圣昭献孝皇帝",
+    "emperorName": "李昂",
+    "hao": [
+      "太和",
+      "开成"
+    ],
+    "mausoleum": "章陵",
+    "relation": "李恒次子",
+    "birthYear": "809",
+    "deathYear": "840",
+    "asend": "826",
+    "abdicateYear": "840",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "武宗",
+    "shi": "至道昭肃孝皇帝",
+    "emperorName": "李炎",
+    "hao": "会昌",
+    "mausoleum": "端陵",
+    "relation": "李恒五子",
+    "birthYear": "814",
+    "deathYear": "846",
+    "asend": "840",
+    "abdicateYear": "846",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "宣宗",
+    "shi": "元圣至明成武献文睿智章仁神聪懿道大孝皇帝",
+    "emperorName": "李忱",
+    "hao": "大中",
+    "mausoleum": "贞陵",
+    "relation": "李纯十三子",
+    "birthYear": "810",
+    "deathYear": "859",
+    "asend": "846",
+    "abdicateYear": "859",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "懿宗",
+    "shi": "睿文昭圣恭惠孝皇帝",
+    "emperorName": "李漼",
+    "hao": "咸通",
+    "mausoleum": "简陵",
+    "relation": "李忱长子",
+    "birthYear": "833",
+    "deathYear": "873",
+    "asend": "859",
+    "abdicateYear": "873",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "僖宗",
+    "shi": "惠圣恭定孝皇帝",
+    "emperorName": "李儇",
+    "hao": [
+      "乾符",
+      "广明",
+      "中和",
+      "光启",
+      "文德"
+    ],
+    "mausoleum": "靖陵",
+    "relation": "李漼五子",
+    "birthYear": "862",
+    "deathYear": "888",
+    "asend": "874",
+    "abdicateYear": "888",
+    "abdicateReason": 0
+  },
+  {
+    "miao": "昭宗",
+    "shi": "圣穆景文孝皇帝",
+    "emperorName": "李晔",
+    "hao": [
+      "龙纪",
+      "大顺",
+      "景福",
+      "乾宁",
+      "光化",
+      "天复",
+      "天祐"
+    ],
+    "mausoleum": "和陵",
+    "relation": "唐懿宗李漼第七子，唐僖宗李儇之弟",
+    "birthYear": "867",
+    "deathYear": "904",
+    "asend": "888",
+    "abdicateYear": "904",
+    "abdicateReason": 0
+  },
+  {
+    "miao": null,
+    "shi": "哀皇帝\n昭宣光烈孝皇帝",
+    "emperorName": "李柷",
+    "hao": "天祐",
+    "mausoleum": "温陵",
+    "relation": "唐昭宗李晔第九子，唐朝末代皇帝",
+    "birthYear": "892",
+    "deathYear": "908",
+    "asend": "904",
+    "abdicateYear": "907",
+    "abdicateReason": 1
+  }
+]
