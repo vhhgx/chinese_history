@@ -2,6 +2,39 @@
 
 中国历史JSON数据库
 
+## 皇帝顺序表
+
+暂以下格式为准，后续有扩展再补充
+
+
+```json
+[
+  {
+    "miao": "庙号",
+    "shi": "谥号",
+    "supplementary": "布尔值，是否为后世追认",
+    "emperorName": "皇帝名讳",
+    "birthYear": "生年",
+    "deathYear": "卒年",
+    "ascendYear": "登基年份",
+    "abdicateYear": "退位年份",
+    "reignLen": "在位时间",
+    "abdicateReason": "退位原因 0: 驾崩（殇），其他需要写明原因",
+    "hao": "年号 如果有多个年号则使用数组",
+    "年号数组, key依旧为hao": [
+      {
+        "hao": "年号",
+        "startYear": "启用时间",
+        "ceaseYear": "停用时间",
+        "length": "持续时间"
+      }
+    ],
+    "mausoleum": "皇陵",
+    "mausoleumAddress": "皇陵地址",
+    "relation": "人物关系"
+  }
+]
+```
 
 ## TODO
 
