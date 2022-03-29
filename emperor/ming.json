@@ -1,0 +1,220 @@
+[
+  {
+    "miao": "太祖",
+    "shi": "开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝",
+    "emperorName": "朱元璋",
+    "hao": "洪武",
+    "ascendYear": "1368",
+    "abdicateYear": "1398",
+    "relation": "明成祖之父",
+    "mausoleum": "孝陵"
+  },
+  {
+    "miao": "兴宗",
+    "shi": "孝康皇帝",
+    "emperorName": "朱标",
+    "hao": "（惠宗追尊，成祖取消，安宗恢复）",
+    "ascendYear": "明太祖长子，明惠宗之父",
+    "relation": "东陵 "
+  },
+  {
+    "miao": "惠宗",
+    "shi": "嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝（安宗谥）\n恭闵惠皇帝（清高宗谥） ",
+    "emperorName": "朱允炆",
+    "hao": "建文",
+    "ascendYear": "1398",
+    "abdicateYear": "1402",
+    "relation": "明太祖之孙",
+    "mausoleum": "-"
+  },
+  {
+    "miao": "成祖",
+    "shi": "启天弘道高明肇运圣武神功纯仁至孝文皇帝",
+    "emperorName": "朱棣",
+    "hao": "永乐",
+    "ascendYear": "1402",
+    "abdicateYear": "1424",
+    "relation": "明太祖第四子",
+    "mausoleum": "长陵"
+  },
+  {
+    "miao": "仁宗",
+    "shi": "敬天体道纯诚至德弘文钦武章圣达孝昭皇帝",
+    "emperorName": "朱高炽",
+    "hao": "洪熙",
+    "ascendYear": "1424",
+    "abdicateYear": "1425",
+    "relation": "明成祖长子",
+    "mausoleum": "献陵"
+  },
+  {
+    "miao": "宣宗",
+    "shi": "宪天崇道英明神圣钦天昭武宽仁纯孝章皇帝",
+    "emperorName": "朱瞻基",
+    "hao": "宣德",
+    "ascendYear": "1425",
+    "abdicateYear": "1435",
+    "relation": "明仁宗长子",
+    "mausoleum": "景陵"
+  },
+  {
+    "miao": "英宗",
+    "shi": "法天立道仁明诚敬昭文宪武至德广孝睿皇帝",
+    "emperorName": "朱祁镇",
+    "hao": "正统\n天顺",
+    "ascendYear": "1435",
+    "abdicateYear": "1449\n1457",
+    "relation": "明宣宗长子",
+    "mausoleum": "裕陵"
+  },
+  {
+    "miao": "代宗",
+    "shi": "恭仁康定景皇帝（宪宗谥） \n符天建道恭仁康定隆文布武显德崇孝景皇帝（安宗谥）",
+    "emperorName": "朱祁钰",
+    "hao": "景泰",
+    "ascendYear": "1449",
+    "abdicateYear": "1457",
+    "relation": "明宣宗次子",
+    "mausoleum": "景泰陵"
+  },
+  {
+    "miao": "宪宗",
+    "shi": "继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝",
+    "emperorName": "朱见深",
+    "hao": "成化",
+    "ascendYear": "1464",
+    "abdicateYear": "1487",
+    "relation": "明英宗长子",
+    "mausoleum": "茂陵"
+  },
+  {
+    "miao": "孝宗",
+    "shi": "达天明道纯识中正圣文神武至仁大德敬皇帝",
+    "emperorName": "朱祐樘",
+    "hao": "弘治",
+    "ascendYear": "1487",
+    "abdicateYear": "1505",
+    "relation": "明宪宗第三子",
+    "mausoleum": "泰陵"
+  },
+  {
+    "miao": "武宗",
+    "shi": "承天达道英肃睿哲昭德显功弘文思孝毅皇帝",
+    "emperorName": "朱厚照",
+    "hao": "正德",
+    "ascendYear": "1505",
+    "abdicateYear": "1521",
+    "relation": "明孝宗长子",
+    "mausoleum": "康陵"
+  },
+  {
+    "miao": "睿宗",
+    "shi": "知天守道洪德渊仁宽穆纯圣恭简敬文献皇帝",
+    "emperorName": "朱祐杬",
+    "hao": "（世宗追尊）",
+    "ascendYear": "明世宗之父",
+    "relation": "显陵 "
+  },
+  {
+    "miao": "世宗",
+    "shi": "钦天履道英毅神圣宣文广武洪仁大孝肃皇帝",
+    "emperorName": "朱厚熜",
+    "hao": "嘉靖",
+    "ascendYear": "1521",
+    "abdicateYear": "1566",
+    "relation": "明睿宗次子、  明武宗堂弟",
+    "mausoleum": "永陵"
+  },
+  {
+    "miao": "穆宗",
+    "shi": "契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝",
+    "emperorName": "朱载坖",
+    "hao": "隆庆",
+    "ascendYear": "1566",
+    "abdicateYear": "1572",
+    "relation": "明世宗第三子",
+    "mausoleum": "昭陵"
+  },
+  {
+    "miao": "神宗",
+    "shi": "范天合道哲肃敦简光文章武安仁止孝显皇帝",
+    "emperorName": "朱翊钧",
+    "hao": "万历",
+    "ascendYear": "1572",
+    "abdicateYear": "1620",
+    "relation": "明穆宗第三子",
+    "mausoleum": "定陵"
+  },
+  {
+    "miao": "光宗",
+    "shi": "崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝",
+    "emperorName": "朱常洛",
+    "hao": "泰昌",
+    "ascendYear": "1620（29天）",
+    "relation": "明神宗长子",
+    "mausoleum": "庆陵"
+  },
+  {
+    "miao": "熹宗",
+    "shi": "达天闻道敦孝笃友章文襄武靖穆庄勤悊皇帝",
+    "emperorName": "朱由校",
+    "hao": "天启",
+    "ascendYear": "1620",
+    "abdicateYear": "1627",
+    "relation": "明光宗长子",
+    "mausoleum": "德陵"
+  },
+  {
+    "miao": "思宗、毅宗、威宗 ",
+    "shi": "绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝（安宗谥）\n庄烈愍皇帝（清世祖谥） ",
+    "emperorName": "朱由检",
+    "hao": "崇祯",
+    "ascendYear": "1627",
+    "abdicateYear": "1644",
+    "relation": "明光宗第五子",
+    "mausoleum": "思陵"
+  },
+  {
+    "miao": "南明皇帝（1644年—1662年）"
+  },
+  {
+    "miao": "安宗",
+    "shi": "奉天遵道宽和静穆修文布武温恭仁孝简皇帝",
+    "emperorName": "朱由崧",
+    "hao": "弘光",
+    "ascendYear": "1644",
+    "abdicateYear": "1645",
+    "relation": "明神宗之孙",
+    "mausoleum": "-"
+  },
+  {
+    "miao": "绍宗",
+    "shi": "配天至道弘毅肃穆思文烈武敏仁广孝襄皇帝",
+    "emperorName": "朱聿键",
+    "hao": "隆武",
+    "ascendYear": "1645",
+    "abdicateYear": "1646",
+    "relation": "明太祖九世孙",
+    "mausoleum": "-"
+  },
+  {
+    "miao": "文宗",
+    "shi": "贞天应道昭崇德毅宁文宏武达仁闵孝节皇帝",
+    "emperorName": "朱聿鐭",
+    "hao": "绍武",
+    "ascendYear": "1646",
+    "abdicateYear": "1647（40天）",
+    "relation": "明绍宗之弟",
+    "mausoleum": "-"
+  },
+  {
+    "miao": "昭宗",
+    "shi": "应天推道敏毅恭俭经文纬武体仁克孝匡皇帝",
+    "emperorName": "朱由榔",
+    "hao": "永历",
+    "ascendYear": "1647",
+    "abdicateYear": "1662",
+    "relation": "明神宗之孙",
+    "mausoleum": "-"
+  }
+]
