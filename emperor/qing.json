@@ -1,0 +1,144 @@
+[
+  {
+    "miao": "太祖",
+    "shi": "承天广运圣德神功肇纪立极仁孝睿武端毅钦安弘文定业高皇帝（初谥武皇帝）",
+    "emperorName": "努尔哈赤",
+    "ascendYear": "1616年",
+    "abdicateYear": "1626年（在位10年）",
+    "hao": "天命",
+    "mausoleum": "福陵",
+    "relation": "-"
+  },
+  {
+    "miao": "太宗",
+    "shi": "应天兴国弘德彰武宽温仁圣睿孝敬敏昭定隆道显功文皇帝",
+    "emperorName": "皇太极",
+    "ascendYear": "1626年",
+    "abdicateYear": "1636年（称汗10年）",
+    "hao": "天聪",
+    "mausoleum": "昭陵",
+    "relation": "努尔哈赤第八子"
+  },
+  {
+    "miao": "太宗",
+    "shi": "应天兴国弘德彰武宽温仁圣睿孝敬敏昭定隆道显功文皇帝",
+    "emperorName": "皇太极",
+    "ascendYear": "1636年",
+    "abdicateYear": "1643年（称帝8年）",
+    "hao": "崇德",
+    "mausoleum": "昭陵",
+    "relation": "努尔哈赤第八子"
+  },
+  {
+    "miao": "成宗（追尊）",
+    "shi": "懋德修道广业定功安民立政诚敬义皇帝（顺治帝追尊）",
+    "emperorName": "多尔衮",
+    "ascendYear": "追尊",
+    "hao": "-",
+    "mausoleum": "-",
+    "relation": "努尔哈赤第十四子"
+  },
+  {
+    "miao": "睿忠亲王（乾隆帝追复）"
+  },
+  {
+    "miao": "世祖",
+    "shi": "体天隆运定统建极英睿钦文显武大德弘功至仁纯孝章皇帝",
+    "emperorName": "福临",
+    "ascendYear": "1644年",
+    "abdicateYear": "1661年（在位18年）",
+    "hao": "顺治",
+    "mausoleum": "孝陵",
+    "relation": "皇太极第九子"
+  },
+  {
+    "miao": "圣祖",
+    "shi": "合天弘运文武睿哲恭俭宽裕孝敬诚信中和功德大成仁皇帝",
+    "emperorName": "玄烨",
+    "ascendYear": "1661年",
+    "abdicateYear": "1722年（在位61年）",
+    "hao": "康熙",
+    "mausoleum": "景陵",
+    "relation": "顺治帝第三子"
+  },
+  {
+    "miao": "世宗",
+    "shi": "敬天昌运建中表正文武英明宽仁信毅睿圣大孝至诚宪皇帝",
+    "emperorName": "胤禛",
+    "ascendYear": "1722年",
+    "abdicateYear": "1735年（在位13年）",
+    "hao": "雍正",
+    "mausoleum": "泰陵",
+    "relation": "康熙帝第四子"
+  },
+  {
+    "miao": "高宗",
+    "shi": "法天隆运至诚先觉体元立极敷文奋武钦明孝慈神圣纯皇帝",
+    "emperorName": "弘历",
+    "ascendYear": "1735年",
+    "abdicateYear": "1795年（在位60年，实际执政63年）",
+    "hao": "乾隆",
+    "mausoleum": "裕陵",
+    "relation": "雍正帝第四子"
+  },
+  {
+    "miao": "仁宗",
+    "shi": "受天兴运敷化绥猷崇文经武光裕孝恭勤俭端敏英哲睿皇帝",
+    "emperorName": "颙琰",
+    "ascendYear": "1796年",
+    "abdicateYear": "1820年（在位25年）",
+    "hao": "嘉庆",
+    "mausoleum": "昌陵",
+    "relation": "乾隆帝第十五子"
+  },
+  {
+    "miao": "宣宗",
+    "shi": "效天符运立中体正至文圣武智勇仁慈俭勤孝敏宽定成皇帝",
+    "emperorName": "旻宁",
+    "ascendYear": "1820年",
+    "abdicateYear": "1850年（在位30年）",
+    "hao": "道光",
+    "mausoleum": "慕陵",
+    "relation": "嘉庆帝次子"
+  },
+  {
+    "miao": "文宗",
+    "shi": "协天翊运执中垂谟懋德振武圣孝渊恭端仁宽敏庄俭显皇帝",
+    "emperorName": "奕詝",
+    "ascendYear": "1850年",
+    "abdicateYear": "1861年（在位11年）",
+    "hao": "咸丰",
+    "mausoleum": "定陵",
+    "relation": "道光帝第四子"
+  },
+  {
+    "miao": "穆宗",
+    "shi": "继天开运受中居正保大定功圣智诚孝信敏恭宽明肃毅皇帝",
+    "emperorName": "载淳",
+    "ascendYear": "1861年",
+    "abdicateYear": "1874年（在位13年）",
+    "hao": "同治",
+    "mausoleum": "惠陵",
+    "relation": "咸丰帝长子"
+  },
+  {
+    "miao": "德宗",
+    "shi": "同天崇运大中至正经文纬武仁孝睿智端俭宽勤景皇帝",
+    "emperorName": "载湉",
+    "ascendYear": "1874年",
+    "abdicateYear": "1908年（在位34年）",
+    "hao": "光绪",
+    "mausoleum": "崇陵",
+    "relation": "道光帝第七子奕譞次子"
+  },
+  {
+    "miao": "—",
+    "shi": "—",
+    "emperorName": "溥仪",
+    "ascendYear": "1908年",
+    "abdicateYear": "1912年（在位3年，1917年、1934",
+    "hao": "宣统",
+    "mausoleum": "西陵之华龙皇家陵园",
+    "relation": "奕譞第五子载沣长子"
+  }
+]
